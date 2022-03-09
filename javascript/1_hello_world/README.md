@@ -10,9 +10,11 @@ Building a boilderplate web application and updating the DOM with Javascript
         - I.E. do not add ```<h1>Hello World</h1>``` inside of the ```<body>``` tag
 3. The Javascript file 
     - should be loaded by the index.html file
-    - ```<h1>Hello, World</h1>``` needs to be added to the ```<body>``` of the application using javascript
-    - ```<h2>{INSERT_RANDOM_CONTENT_FROM A LOREM_IPSUM}</h2>``` needs to be added to the ```<body>``` of the application using javascript and it should appear below the ```<h1>```
-        - Lorem Ipsum is commonly used placeholder text -> read more ->   https://loremipsum.io/
+    - ```<h1>Hello, World.</h1>``` needs to be added to the ```<body>``` of the application using javascript
+    - ```<h2>Show me potato salad!</h2>``` needs to be added to the ```<body>``` of the application using javascript and it should appear below the ```<h1>```
+        
+    - A random paragraph of text (using a loremm ipsum) needs to be added to the ```<div id='element'>```
+        - "Lorem Ipsum" is commonly used generated placeholder text -> read more ->   https://loremipsum.io/
 4. The CSS file
     - should be loaded by the index.html file
     - Should change the color of the ```<h1>``` to be "red"
@@ -20,7 +22,7 @@ Building a boilderplate web application and updating the DOM with Javascript
     - should center all the text
 
 ## Expected Visual Output 
-![alt text](./readme/expected_output_visual.PNG)
+![alt text](./readme/output.PNG)
 
 ## Resources
 

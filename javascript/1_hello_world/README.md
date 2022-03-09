@@ -4,7 +4,7 @@ Building a boilderplate web application and updating the DOM with Javascript
 
 ## First Objective - Build a boilerplate web application
 1. Output will be 3 files -> html file (already provided), javascript file, css file
-2. See the expected_output_visual.PNG file to see how the application should render after it is complete
+2. See the Expected Visual Output below
 2. HTML file 
     - should contain no text content in the ```<body>```
         - I.E. do not add ```<h1>Hello World</h1>``` inside of the ```<body>``` tag
@@ -20,9 +20,10 @@ Building a boilderplate web application and updating the DOM with Javascript
     - should center all the text
 
 ## Expected Visual Output 
-![alt text](./expected_output_visual.PNG)
+![alt text](./readme/expected_output_visual.PNG)
 
 ## Resources
 
 - Lorem Ipsum - https://loremipsum.io/
 - how to build a basic website - https://docs.microsoft.com/en-us/learn/modules/build-simple-website/ 
+- the DOM - https://www.w3schools.com/js/js_htmldom.asp
